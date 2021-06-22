@@ -10,4 +10,4 @@
 [![하늘이 초대하기](https://i.ibb.co/zmVWvFC/Add-a-subheading.png)](https://discord.com/api/oauth2/authorize?client_id=806076310278373446&permissions=8&scope=bot)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaewoolee82&repo=sky-bot)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaewoolee82&repo=sky-bot)](https://github.com/jaewoolee82/sky-bot)
